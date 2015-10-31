@@ -14,8 +14,8 @@ import javax.mail.PasswordAuthentication;
  * 
  */
 public class Email_Autherticator extends Authenticator {
-    public static String username = "bitium10";
-    public static String password = "ling195891";
+    public static String username = "*";
+    public static String password = "*";
 
     public Email_Autherticator() {
 	super();
